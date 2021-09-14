@@ -1,0 +1,1 @@
+/home/dani/catkin_ws/devel/.private/ros_service_assignment/share/common-lisp/ros/ros_service_assignment/srv/RectangleAreaService.lisp

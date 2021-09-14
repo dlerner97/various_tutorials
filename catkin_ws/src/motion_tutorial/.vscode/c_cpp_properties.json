@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/home/dani/catkin_ws/devel/include/**",
+                "/opt/ros/melodic/include/**",
+                "/home/dani/catkin_ws/src/beginner_tutorials/include/**",
+                "/home/dani/catkin_ws/src/motion_tutorial/include/**",
+                "/home/dani/catkin_ws/src/ros_essentials_cpp/include/**",
+                "/home/dani/catkin_ws/src/ros_service_assignment/include/**",
+                "/usr/include/**"
+            ],
+            "name": "ROS",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "gnu17",
+            "cppStandard": "gnu++14"
+        }
+    ],
+    "version": 4
+}

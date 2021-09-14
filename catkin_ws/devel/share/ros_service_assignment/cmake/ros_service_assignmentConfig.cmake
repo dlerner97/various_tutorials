@@ -1,0 +1,1 @@
+/home/dani/catkin_ws/devel/.private/ros_service_assignment/share/ros_service_assignment/cmake/ros_service_assignmentConfig.cmake

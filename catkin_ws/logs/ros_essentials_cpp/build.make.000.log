@@ -1,0 +1,184 @@
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target read_video_cpp[0m
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target open_copy_cpp[0m
+[  0%] Built target sensor_msgs_generate_messages_cpp
+[  0%] Built target actionlib_msgs_generate_messages_py
+[  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target actionlib_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_py
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_cpp[0m
+[  0%] Built target actionlib_msgs_generate_messages_cpp
+[  0%] Built target geometry_msgs_generate_messages_eus
+[  0%] Built target actionlib_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target roscpp_generate_messages_lisp
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_py[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_py[0m
+[  0%] Built target rosgraph_msgs_generate_messages_lisp
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[  0%] Built target roscpp_generate_messages_py
+[  0%] Built target sensor_msgs_generate_messages_eus
+[  0%] Built target roscpp_generate_messages_cpp
+[  0%] Built target rosgraph_msgs_generate_messages_py
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_eus[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_eus[0m
+[  1%] [32mBuilding CXX object CMakeFiles/read_video_cpp.dir/src/topic03_perception/cpp/read_video.cpp.o[0m
+[  2%] [32mBuilding CXX object CMakeFiles/open_copy_cpp.dir/src/topic03_perception/cpp/open_copy.cpp.o[0m
+[  2%] Built target sensor_msgs_generate_messages_py
+[  2%] Built target rosgraph_msgs_generate_messages_cpp
+[  2%] Built target sensor_msgs_generate_messages_lisp
+[  2%] Built target roscpp_generate_messages_nodejs
+[  2%] Built target roscpp_generate_messages_eus
+[  2%] Built target rosgraph_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target utility_lib[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_nodejs[0m
+[  2%] Built target geometry_msgs_generate_messages_cpp
+[  2%] Built target geometry_msgs_generate_messages_lisp
+[  2%] Built target geometry_msgs_generate_messages_py
+[  4%] [32mBuilding CXX object CMakeFiles/utility_lib.dir/src/topic04_perception02_laser/laserscan/utility_lib.cpp.o[0m
+[  4%] Built target actionlib_msgs_generate_messages_lisp
+[  4%] Built target geometry_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target _ros_essentials_cpp_generate_messages_check_deps_FibonacciGoal[0m
+[35m[1mScanning dependencies of target _ros_essentials_cpp_generate_messages_check_deps_FibonacciResult[0m
+[35m[1mScanning dependencies of target _ros_essentials_cpp_generate_messages_check_deps_IoTSensor[0m
+[35m[1mScanning dependencies of target _ros_essentials_cpp_generate_messages_check_deps_FibonacciAction[0m
+[  4%] Built target std_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target _ros_essentials_cpp_generate_messages_check_deps_FibonacciActionGoal[0m
+[  4%] Built target _ros_essentials_cpp_generate_messages_check_deps_FibonacciGoal
+[  4%] Built target _ros_essentials_cpp_generate_messages_check_deps_IoTSensor
+[  4%] Built target _ros_essentials_cpp_generate_messages_check_deps_FibonacciAction
+[  4%] Built target _ros_essentials_cpp_generate_messages_check_deps_FibonacciResult
+[35m[1mScanning dependencies of target _ros_essentials_cpp_generate_messages_check_deps_FibonacciActionResult[0m
+[35m[1mScanning dependencies of target _ros_essentials_cpp_generate_messages_check_deps_AddTwoInts[0m
+[35m[1mScanning dependencies of target _ros_essentials_cpp_generate_messages_check_deps_FibonacciFeedback[0m
+[  5%] [32m[1mLinking CXX shared library /home/dani/catkin_ws/devel/.private/ros_essentials_cpp/lib/libutility_lib.so[0m
+[35m[1mScanning dependencies of target _ros_essentials_cpp_generate_messages_check_deps_FibonacciActionFeedback[0m
+[  5%] Built target _ros_essentials_cpp_generate_messages_check_deps_FibonacciActionGoal
+[35m[1mScanning dependencies of target talker_node[0m
+[  5%] Built target _ros_essentials_cpp_generate_messages_check_deps_FibonacciActionResult
+[  7%] [32mBuilding CXX object CMakeFiles/talker_node.dir/src/topic01_basics/talker_listener/talker.cpp.o[0m
+[  7%] Built target utility_lib
+[  7%] Built target _ros_essentials_cpp_generate_messages_check_deps_AddTwoInts
+[  7%] Built target _ros_essentials_cpp_generate_messages_check_deps_FibonacciActionFeedback
+[35m[1mScanning dependencies of target turtlesim_clean_node[0m
+[  7%] Built target _ros_essentials_cpp_generate_messages_check_deps_FibonacciFeedback
+[35m[1mScanning dependencies of target image_pub_sub_cpp[0m
+[35m[1mScanning dependencies of target listener_node[0m
+[35m[1mScanning dependencies of target ros_essentials_cpp_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target laserscan_lib[0m
+[  8%] [32mBuilding CXX object CMakeFiles/turtlesim_clean_node.dir/src/topic02_motion/turtlesim/robot_cleaner.cpp.o[0m
+[ 10%] [34m[1mGenerating C++ code from ros_essentials_cpp/IoTSensor.msg[0m
+[ 11%] [32mBuilding CXX object CMakeFiles/listener_node.dir/src/topic01_basics/talker_listener/listener.cpp.o[0m
+[ 12%] [32mBuilding CXX object CMakeFiles/laserscan_lib.dir/src/topic04_perception02_laser/laserscan/LaserScanner.cpp.o[0m
+[ 14%] [32mBuilding CXX object CMakeFiles/image_pub_sub_cpp.dir/src/topic03_perception/cpp/image_pub_sub.cpp.o[0m
+[ 15%] [34m[1mGenerating C++ code from ros_essentials_cpp/FibonacciAction.msg[0m
+[ 17%] [34m[1mGenerating C++ code from ros_essentials_cpp/FibonacciActionGoal.msg[0m
+[ 18%] [34m[1mGenerating C++ code from ros_essentials_cpp/FibonacciActionResult.msg[0m
+[ 20%] [34m[1mGenerating C++ code from ros_essentials_cpp/FibonacciActionFeedback.msg[0m
+[ 21%] [34m[1mGenerating C++ code from ros_essentials_cpp/FibonacciGoal.msg[0m
+[ 22%] [34m[1mGenerating C++ code from ros_essentials_cpp/FibonacciResult.msg[0m
+[ 24%] [34m[1mGenerating C++ code from ros_essentials_cpp/FibonacciFeedback.msg[0m
+[ 25%] [34m[1mGenerating C++ code from ros_essentials_cpp/AddTwoInts.srv[0m
+[ 25%] Built target ros_essentials_cpp_generate_messages_cpp
+[35m[1mScanning dependencies of target ros_essentials_cpp_generate_messages_nodejs[0m
+[ 27%] [34m[1mGenerating Javascript code from ros_essentials_cpp/IoTSensor.msg[0m
+[ 28%] [34m[1mGenerating Javascript code from ros_essentials_cpp/FibonacciAction.msg[0m
+[ 30%] [34m[1mGenerating Javascript code from ros_essentials_cpp/FibonacciActionGoal.msg[0m
+[ 31%] [34m[1mGenerating Javascript code from ros_essentials_cpp/FibonacciActionResult.msg[0m
+[ 32%] [34m[1mGenerating Javascript code from ros_essentials_cpp/FibonacciActionFeedback.msg[0m
+[ 34%] [34m[1mGenerating Javascript code from ros_essentials_cpp/FibonacciGoal.msg[0m
+[ 35%] [34m[1mGenerating Javascript code from ros_essentials_cpp/FibonacciResult.msg[0m
+[ 37%] [34m[1mGenerating Javascript code from ros_essentials_cpp/FibonacciFeedback.msg[0m
+[ 38%] [34m[1mGenerating Javascript code from ros_essentials_cpp/AddTwoInts.srv[0m
+[ 38%] Built target ros_essentials_cpp_generate_messages_nodejs
+[35m[1mScanning dependencies of target ros_essentials_cpp_generate_messages_py[0m
+[ 40%] [34m[1mGenerating Python from MSG ros_essentials_cpp/IoTSensor[0m
+[ 41%] [34m[1mGenerating Python from MSG ros_essentials_cpp/FibonacciAction[0m
+[ 42%] [32m[1mLinking CXX executable /home/dani/catkin_ws/devel/.private/ros_essentials_cpp/lib/ros_essentials_cpp/read_video_cpp[0m
+[ 44%] [34m[1mGenerating Python from MSG ros_essentials_cpp/FibonacciActionGoal[0m
+[ 45%] [34m[1mGenerating Python from MSG ros_essentials_cpp/FibonacciActionResult[0m
+[ 47%] [32m[1mLinking CXX executable /home/dani/catkin_ws/devel/.private/ros_essentials_cpp/lib/ros_essentials_cpp/open_copy_cpp[0m
+[ 48%] [34m[1mGenerating Python from MSG ros_essentials_cpp/FibonacciActionFeedback[0m
+[ 50%] [32m[1mLinking CXX shared library /home/dani/catkin_ws/devel/.private/ros_essentials_cpp/lib/liblaserscan_lib.so[0m
+[ 51%] [32m[1mLinking CXX executable /home/dani/catkin_ws/devel/.private/ros_essentials_cpp/lib/ros_essentials_cpp/talker_node[0m
+[ 52%] [34m[1mGenerating Python from MSG ros_essentials_cpp/FibonacciGoal[0m
+[ 54%] [34m[1mGenerating Python from MSG ros_essentials_cpp/FibonacciResult[0m
+[ 54%] Built target laserscan_lib
+[35m[1mScanning dependencies of target ros_essentials_cpp_generate_messages_eus[0m
+[ 55%] [34m[1mGenerating Python from MSG ros_essentials_cpp/FibonacciFeedback[0m
+[ 57%] [34m[1mGenerating EusLisp code from ros_essentials_cpp/IoTSensor.msg[0m
+[ 57%] Built target talker_node
+[35m[1mScanning dependencies of target ros_essentials_cpp_generate_messages_lisp[0m
+[ 58%] [34m[1mGenerating Lisp code from ros_essentials_cpp/IoTSensor.msg[0m
+[ 60%] [34m[1mGenerating EusLisp code from ros_essentials_cpp/FibonacciAction.msg[0m
+[ 61%] [34m[1mGenerating Python code from SRV ros_essentials_cpp/AddTwoInts[0m
+[ 62%] [32m[1mLinking CXX executable /home/dani/catkin_ws/devel/.private/ros_essentials_cpp/lib/ros_essentials_cpp/listener_node[0m
+[ 64%] [34m[1mGenerating Lisp code from ros_essentials_cpp/FibonacciAction.msg[0m
+[ 65%] [34m[1mGenerating Python msg __init__.py for ros_essentials_cpp[0m
+[ 67%] [34m[1mGenerating EusLisp code from ros_essentials_cpp/FibonacciActionGoal.msg[0m
+[ 68%] [34m[1mGenerating Lisp code from ros_essentials_cpp/FibonacciActionGoal.msg[0m
+[ 68%] Built target open_copy_cpp
+[ 68%] Built target read_video_cpp
+[ 70%] [34m[1mGenerating Lisp code from ros_essentials_cpp/FibonacciActionResult.msg[0m
+[35m[1mScanning dependencies of target scan_subscriber_cpp[0m
+[ 71%] [32mBuilding CXX object CMakeFiles/scan_subscriber_cpp.dir/src/topic04_perception02_laser/scan_subscriber.cpp.o[0m
+[ 72%] [32m[1mLinking CXX executable /home/dani/catkin_ws/devel/.private/ros_essentials_cpp/lib/ros_essentials_cpp/turtlesim_clean_node[0m
+[ 74%] [34m[1mGenerating Lisp code from ros_essentials_cpp/FibonacciActionFeedback.msg[0m
+[ 75%] [34m[1mGenerating Python srv __init__.py for ros_essentials_cpp[0m
+[35m[1mScanning dependencies of target ros_essentials_cpp_gencpp[0m
+[ 77%] [34m[1mGenerating EusLisp code from ros_essentials_cpp/FibonacciActionResult.msg[0m
+[ 77%] Built target ros_essentials_cpp_gencpp
+[ 78%] [34m[1mGenerating EusLisp code from ros_essentials_cpp/FibonacciActionFeedback.msg[0m
+[ 80%] [34m[1mGenerating Lisp code from ros_essentials_cpp/FibonacciGoal.msg[0m
+[ 80%] Built target ros_essentials_cpp_generate_messages_py
+[ 80%] Built target listener_node
+[ 81%] [34m[1mGenerating Lisp code from ros_essentials_cpp/FibonacciResult.msg[0m
+[35m[1mScanning dependencies of target add_two_ints_client[0m
+[ 82%] [32mBuilding CXX object CMakeFiles/add_two_ints_client.dir/src/topic01_basics/service/add_two_ints_client.cpp.o[0m
+[35m[1mScanning dependencies of target add_two_ints_server[0m
+[ 84%] [34m[1mGenerating EusLisp code from ros_essentials_cpp/FibonacciGoal.msg[0m
+[ 85%] [34m[1mGenerating EusLisp code from ros_essentials_cpp/FibonacciResult.msg[0m
+[ 87%] [34m[1mGenerating Lisp code from ros_essentials_cpp/FibonacciFeedback.msg[0m
+[ 88%] [32mBuilding CXX object CMakeFiles/add_two_ints_server.dir/src/topic01_basics/service/add_two_ints_server.cpp.o[0m
+[ 90%] [34m[1mGenerating Lisp code from ros_essentials_cpp/AddTwoInts.srv[0m
+[ 91%] [34m[1mGenerating EusLisp code from ros_essentials_cpp/FibonacciFeedback.msg[0m
+[ 91%] Built target turtlesim_clean_node
+[ 92%] [34m[1mGenerating EusLisp code from ros_essentials_cpp/AddTwoInts.srv[0m
+[ 94%] [34m[1mGenerating EusLisp manifest code for ros_essentials_cpp[0m
+[ 94%] Built target ros_essentials_cpp_generate_messages_lisp
+[ 95%] [32m[1mLinking CXX executable /home/dani/catkin_ws/devel/.private/ros_essentials_cpp/lib/ros_essentials_cpp/image_pub_sub_cpp[0m
+[ 95%] Built target ros_essentials_cpp_generate_messages_eus
+[35m[1mScanning dependencies of target ros_essentials_cpp_generate_messages[0m
+[ 95%] Built target ros_essentials_cpp_generate_messages
+[ 95%] Built target image_pub_sub_cpp
+[ 97%] [32m[1mLinking CXX executable /home/dani/catkin_ws/devel/.private/ros_essentials_cpp/lib/ros_essentials_cpp/scan_subscriber_cpp[0m
+[ 98%] [32m[1mLinking CXX executable /home/dani/catkin_ws/devel/.private/ros_essentials_cpp/lib/ros_essentials_cpp/add_two_ints_client[0m
+[100%] [32m[1mLinking CXX executable /home/dani/catkin_ws/devel/.private/ros_essentials_cpp/lib/ros_essentials_cpp/add_two_ints_server[0m
+[100%] Built target add_two_ints_client
+[100%] Built target scan_subscriber_cpp
+[100%] Built target add_two_ints_server

@@ -1,0 +1,1 @@
+/home/dani/catkin_ws/devel/.private/ros_service_assignment/lib/python3/dist-packages/ros_service_assignment/srv/_RectangleAreaService.py

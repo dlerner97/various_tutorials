@@ -1,0 +1,22 @@
+ros_service_assignment
+/home/dani/catkin_ws/devel/.private/ros_service_assignment/cmake.lock /home/dani/catkin_ws/devel/./cmake.lock
+/home/dani/catkin_ws/devel/.private/ros_service_assignment/include/ros_service_assignment/RectangleAreaServiceResponse.h /home/dani/catkin_ws/devel/include/ros_service_assignment/RectangleAreaServiceResponse.h
+/home/dani/catkin_ws/devel/.private/ros_service_assignment/include/ros_service_assignment/RectangleAreaService.h /home/dani/catkin_ws/devel/include/ros_service_assignment/RectangleAreaService.h
+/home/dani/catkin_ws/devel/.private/ros_service_assignment/include/ros_service_assignment/RectangleAreaServiceRequest.h /home/dani/catkin_ws/devel/include/ros_service_assignment/RectangleAreaServiceRequest.h
+/home/dani/catkin_ws/devel/.private/ros_service_assignment/lib/python3/dist-packages/ros_service_assignment/__init__.py /home/dani/catkin_ws/devel/lib/python3/dist-packages/ros_service_assignment/__init__.py
+/home/dani/catkin_ws/devel/.private/ros_service_assignment/lib/python3/dist-packages/ros_service_assignment/srv/__init__.py /home/dani/catkin_ws/devel/lib/python3/dist-packages/ros_service_assignment/srv/__init__.py
+/home/dani/catkin_ws/devel/.private/ros_service_assignment/lib/python3/dist-packages/ros_service_assignment/srv/_RectangleAreaService.py /home/dani/catkin_ws/devel/lib/python3/dist-packages/ros_service_assignment/srv/_RectangleAreaService.py
+/home/dani/catkin_ws/devel/.private/ros_service_assignment/lib/pkgconfig/ros_service_assignment.pc /home/dani/catkin_ws/devel/lib/pkgconfig/ros_service_assignment.pc
+/home/dani/catkin_ws/devel/.private/ros_service_assignment/share/ros_service_assignment/cmake/ros_service_assignmentConfig-version.cmake /home/dani/catkin_ws/devel/share/ros_service_assignment/cmake/ros_service_assignmentConfig-version.cmake
+/home/dani/catkin_ws/devel/.private/ros_service_assignment/share/ros_service_assignment/cmake/ros_service_assignment-msg-extras.cmake /home/dani/catkin_ws/devel/share/ros_service_assignment/cmake/ros_service_assignment-msg-extras.cmake
+/home/dani/catkin_ws/devel/.private/ros_service_assignment/share/ros_service_assignment/cmake/ros_service_assignmentConfig.cmake /home/dani/catkin_ws/devel/share/ros_service_assignment/cmake/ros_service_assignmentConfig.cmake
+/home/dani/catkin_ws/devel/.private/ros_service_assignment/share/ros_service_assignment/cmake/ros_service_assignment-msg-paths.cmake /home/dani/catkin_ws/devel/share/ros_service_assignment/cmake/ros_service_assignment-msg-paths.cmake
+/home/dani/catkin_ws/devel/.private/ros_service_assignment/share/common-lisp/ros/ros_service_assignment/srv/_package_RectangleAreaService.lisp /home/dani/catkin_ws/devel/share/common-lisp/ros/ros_service_assignment/srv/_package_RectangleAreaService.lisp
+/home/dani/catkin_ws/devel/.private/ros_service_assignment/share/common-lisp/ros/ros_service_assignment/srv/_package.lisp /home/dani/catkin_ws/devel/share/common-lisp/ros/ros_service_assignment/srv/_package.lisp
+/home/dani/catkin_ws/devel/.private/ros_service_assignment/share/common-lisp/ros/ros_service_assignment/srv/RectangleAreaService.lisp /home/dani/catkin_ws/devel/share/common-lisp/ros/ros_service_assignment/srv/RectangleAreaService.lisp
+/home/dani/catkin_ws/devel/.private/ros_service_assignment/share/common-lisp/ros/ros_service_assignment/srv/ros_service_assignment-srv.asd /home/dani/catkin_ws/devel/share/common-lisp/ros/ros_service_assignment/srv/ros_service_assignment-srv.asd
+/home/dani/catkin_ws/devel/.private/ros_service_assignment/share/gennodejs/ros/ros_service_assignment/_index.js /home/dani/catkin_ws/devel/share/gennodejs/ros/ros_service_assignment/_index.js
+/home/dani/catkin_ws/devel/.private/ros_service_assignment/share/gennodejs/ros/ros_service_assignment/srv/_index.js /home/dani/catkin_ws/devel/share/gennodejs/ros/ros_service_assignment/srv/_index.js
+/home/dani/catkin_ws/devel/.private/ros_service_assignment/share/gennodejs/ros/ros_service_assignment/srv/RectangleAreaService.js /home/dani/catkin_ws/devel/share/gennodejs/ros/ros_service_assignment/srv/RectangleAreaService.js
+/home/dani/catkin_ws/devel/.private/ros_service_assignment/share/roseus/ros/ros_service_assignment/manifest.l /home/dani/catkin_ws/devel/share/roseus/ros/ros_service_assignment/manifest.l
+/home/dani/catkin_ws/devel/.private/ros_service_assignment/share/roseus/ros/ros_service_assignment/srv/RectangleAreaService.l /home/dani/catkin_ws/devel/share/roseus/ros/ros_service_assignment/srv/RectangleAreaService.l

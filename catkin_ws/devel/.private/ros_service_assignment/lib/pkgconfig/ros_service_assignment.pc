@@ -1,0 +1,8 @@
+prefix=/home/dani/catkin_ws/devel/.private/ros_service_assignment
+
+Name: ros_service_assignment
+Description: Description of ros_service_assignment
+Version: 0.0.0
+Cflags: -I/home/dani/catkin_ws/devel/.private/ros_service_assignment/include -I/home/dani/catkin_ws/src/ros_service_assignment/include
+Libs: -L${prefix}/lib -lros_service_assignment
+Requires: roscpp rospy std_msgs message_runtime

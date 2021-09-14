@@ -1,0 +1,1 @@
+/home/dani/catkin_ws/devel/.private/ros_service_assignment/include/ros_service_assignment/RectangleAreaServiceResponse.h

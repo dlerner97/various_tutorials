@@ -1,0 +1,8 @@
+prefix=/home/dani/catkin_ws/install
+
+Name: motion_tutorial
+Description: Description of motion_tutorial
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
