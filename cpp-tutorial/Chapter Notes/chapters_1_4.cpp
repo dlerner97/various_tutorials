@@ -1,6 +1,7 @@
 /*
     Chapters 1-4
 */
+#include "../util_funcs.h"
 #include <iostream>
 #include <string>
 #include <iomanip>

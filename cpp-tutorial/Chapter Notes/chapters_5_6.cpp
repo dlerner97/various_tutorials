@@ -2,6 +2,7 @@
     Chapters 5-6
 */
 
+#include "../util_funcs.h"
 #include <iostream>
 #include <vector>
 #include <list>     // Container type. Does not support indexing but provides efficient additions/removals to middle of container
@@ -9,6 +10,7 @@
 #include <algorithm> 
 #include <string>
 #include <numeric>  // Contains various numeric calculations
+#include <iterator>
 
 using std::vector;
 using std::cout;
@@ -28,43 +30,6 @@ using std::transform;           // <algorithm>
 using std::accumulate;          // <numeric>
 using std::remove_copy;         // <algorithm>
 using std::stable_partition;    // <algorithm>
-
-ostream& operator<<(ostream& os, const vector<int>& vec) {
-    os << "<";
-    for(const auto& val: vec) {
-        os << val << ", ";
-    }
-    os << ">";
-    return os;
-}
-
-ostream& operator<<(ostream& os, const list<int>& ls) {
-    os << "<";
-    for(const auto& val: ls) {
-        os << val << ", ";
-    }
-    os << ">";
-    return os;
-}
-
-ostream& operator<<(ostream& os, const vector<string>& vec) {
-    os << "<";
-    for(const auto& val: vec) {
-        os << val << ", ";
-    }
-    os << ">";
-    return os;
-}
-
-ostream& operator<<(ostream& os, const vector<bool>& vec) {
-    os << "<";
-    for(const auto& val: vec) {
-        os << val << ", ";
-    }
-    os << ">";
-    return os;
-}
-
 /*
     Chapter 5
     Using Sequential Containers and Analyzing Strings

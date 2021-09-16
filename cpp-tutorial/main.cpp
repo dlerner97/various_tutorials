@@ -10,10 +10,12 @@
 // Also, compile time is very very low regardless so...
 #include "Chapter Notes/chapters_1_4.cpp"
 #include "Chapter Notes/chapters_5_6.cpp"
+#include "Chapter Notes/chapters_7_9.cpp"
 
 int main(void) {
     // chapters_1_4();
-    chapters_5_6();
+    // chapters_5_6();
+    chapters_7_9();
     
     return 0;
 }
