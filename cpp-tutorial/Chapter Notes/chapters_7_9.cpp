@@ -8,11 +8,13 @@
 #include <iostream>
 #include <algorithm>
 #include <iterator>
+#include <vector>
 
 using std::map;
 using std::string;
 using std::cout;
 using std::endl;
+using std::vector;
 
 /*
     Chapter 7
@@ -58,10 +60,35 @@ T add(T a, T b) { // As we see here "T" is a data type!
 }
 
 void chapter_8() {
+    string hello{"hello"}, hi{"hi"};
+    int a{2}, b{3};
+    float c{4.5}, d{9.32};
+    cout << "String addition: " << add(hi, hello) << endl;
+    cout << "Int addition: " << add(a, b) << endl;
+    cout << "Float addition: " << add(c, d) << endl;
+}
 
+/*
+    Chapter 9
+    Defining New Types
+*/
+
+class MyClass {
+    public:
+    // The "const" in this function prevents the function from changing anything within the class
+    // If a variable is declared as const, we cna only call it's const member functions
+    void say_hi() const {
+        cout << "Hi!" << endl;
+    }
+};
+
+void chapter_9() {
+    MyClass cls;
+    cls.say_hi();
 }
 
 void chapters_7_9() {
     chapter_7();
     chapter_8();
+    chapter_9();
 }
