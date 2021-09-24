@@ -76,7 +76,7 @@ void chapter_8() {
 class MyClass {
     public:
     // The "const" in this function prevents the function from changing anything within the class
-    // If a variable is declared as const, we cna only call it's const member functions
+    // If a variable is declared as const, we can only call it's const member functions
     void say_hi() const {
         cout << "Hi!" << endl;
     }

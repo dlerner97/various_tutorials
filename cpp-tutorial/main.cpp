@@ -11,11 +11,13 @@
 #include "Chapter Notes/chapters_1_4.cpp"
 #include "Chapter Notes/chapters_5_6.cpp"
 #include "Chapter Notes/chapters_7_9.cpp"
+#include "Chapter Notes/chapters_10_13.cpp"
 
-int main(void) {
+int main(int argc, char** argv) {
     // chapters_1_4();
     // chapters_5_6();
-    chapters_7_9();
+    // chapters_7_9();
+    chapters_10_13(argc, argv);
     
     return 0;
 }
