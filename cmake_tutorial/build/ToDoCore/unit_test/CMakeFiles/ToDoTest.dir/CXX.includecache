@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../ToDoCore/ToDo.hpp
+string
+-
+vector
+-
+
+/home/dani/various_tutorials/cmake_tutorial/ToDoCore/unit_test/ToDoTest.cpp
+ToDoCore/ToDo.hpp
+/home/dani/various_tutorials/cmake_tutorial/ToDoCore/unit_test/ToDoCore/ToDo.hpp
+string
+-
+gtest/gtest.h
+-
+
+/home/dani/various_tutorials/cmake_tutorial/ToDoCore/unit_test/main.cpp
+gtest/gtest.h
+-
+

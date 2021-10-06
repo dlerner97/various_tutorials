@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wextra -Werror  -rdynamic CMakeFiles/ToDoTest.dir/main.cpp.o CMakeFiles/ToDoTest.dir/ToDoTest.cpp.o  -o ToDoTest  ../libtoDoCore.a 

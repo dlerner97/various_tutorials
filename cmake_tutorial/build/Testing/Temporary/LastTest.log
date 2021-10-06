@@ -1,0 +1,35 @@
+Start testing: Oct 06 19:26 EDT
+----------------------------------------------------------
+1/2 Testing: toDoTest
+1/2 Test: toDoTest
+Command: "/home/dani/various_tutorials/cmake_tutorial/build/toDo"
+Directory: /home/dani/various_tutorials/cmake_tutorial/build
+"toDoTest" start time: Oct 06 19:26 EDT
+Output:
+----------------------------------------------------------
+Tests passed!
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"toDoTest" end time: Oct 06 19:26 EDT
+"toDoTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Unable to find executable: ToDoTest
+2/2 Testing: ToDoTest
+2/2 Test: ToDoTest
+Command: ""
+Directory: /home/dani/various_tutorials/cmake_tutorial/build/ToDoCore/unit_test
+"ToDoTest" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ToDoTest" end time: Oct 06 19:26 EDT
+"ToDoTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Oct 06 19:26 EDT
