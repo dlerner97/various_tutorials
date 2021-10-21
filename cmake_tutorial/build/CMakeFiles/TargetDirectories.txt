@@ -1,0 +1,12 @@
+/home/dani/various_tutorials/cmake_tutorial/build/CMakeFiles/rebuild_cache.dir
+/home/dani/various_tutorials/cmake_tutorial/build/CMakeFiles/edit_cache.dir
+/home/dani/various_tutorials/cmake_tutorial/build/CMakeFiles/test.dir
+/home/dani/various_tutorials/cmake_tutorial/build/CMakeFiles/toDo.dir
+/home/dani/various_tutorials/cmake_tutorial/build/ToDoCore/CMakeFiles/rebuild_cache.dir
+/home/dani/various_tutorials/cmake_tutorial/build/ToDoCore/CMakeFiles/edit_cache.dir
+/home/dani/various_tutorials/cmake_tutorial/build/ToDoCore/CMakeFiles/test.dir
+/home/dani/various_tutorials/cmake_tutorial/build/ToDoCore/CMakeFiles/toDoCore.dir
+/home/dani/various_tutorials/cmake_tutorial/build/ToDoCore/unit_test/CMakeFiles/rebuild_cache.dir
+/home/dani/various_tutorials/cmake_tutorial/build/ToDoCore/unit_test/CMakeFiles/edit_cache.dir
+/home/dani/various_tutorials/cmake_tutorial/build/ToDoCore/unit_test/CMakeFiles/test.dir
+/home/dani/various_tutorials/cmake_tutorial/build/ToDoCore/unit_test/CMakeFiles/ToDoTest.dir
