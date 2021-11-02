@@ -16,10 +16,13 @@ const defaultConfig = {
 };
 
 const apiSettings = {
+  // Any func with "await" requires an "async" call
   fetchMovies: async (searchTerm, page) => {
+    // If/else shorthand. "searchTerm" is the boolean flag
     const endpoint = searchTerm
-      ? `${SEARCH_BASE_URL}${searchTerm}&page=${page}`
-      : `${POPULAR_BASE_URL}&page=${page}`;
+      ? `${SEARCH_BASE_URL}${searchTerm}&page=${page}`  // If true
+      : `${POPULAR_BASE_URL}&page=${page}`;             // If false
+    // First "await" waits for the http response. Second await waits for the data.json() function to occur
     return await (await fetch(endpoint)).json();
   },
   fetchMovie: async movieId => {

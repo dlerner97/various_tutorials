@@ -9,7 +9,9 @@ import TMDBLogo from '../../images/tmdb-logo.svg';
 import { Wrapper, Content, LogoImg, TMDBLogoImg } from './Header.styles' 
 
 const Header = () => (
+    // Wrapper div
     <Wrapper>
+        {/* content div */}
         <Content>
             <LogoImg src={RMDBLogo} alt='rmdb-logo' />
             <TMDBLogoImg src={TMDBLogo} alt='tmdb-logo' />
