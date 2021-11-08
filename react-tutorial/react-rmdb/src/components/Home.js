@@ -25,11 +25,20 @@ const Home = () => {
             setLoading(true);
 
             const movies = await API.fetchMovies(searchTerm, page);
-            console.log(movies);
+
+            // setState is a setter that uses an inline function (with prev as input) to reset the state 
+            setState(prev => ({
+                // ... syntax "spreads out" the movies var. Creates an new object with all of the properties of the given object
+                ...movies,
+                // returns all movies until now
+                results:
+                    page > 1 ? [...prev.results, ...movies.results] : [...movies.results]
+            }))
 
         } catch (error) {
             setError(true);
         }
+        setLoading(false);
     };
 
     // Inline function of initial render
@@ -39,6 +48,7 @@ const Home = () => {
     }, []) // Inside brackets is "dependency array." We will only use this func if dependencies are valid
            // If depend arr is empty, it'll only run once  
 
+    console.log(state);
     return <div>Home Page</div>
 }
 
