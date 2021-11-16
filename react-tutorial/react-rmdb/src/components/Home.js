@@ -1,55 +1,59 @@
-import React, { useState, useEffect } from 'react';
+import React from 'react';
 
 // API
-import API from '../API'
+import API from '../API';
 
 // config
 import { POSTER_SIZE, BACKDROP_SIZE, IMAGE_BASE_URL } from '../config';
 
-// Components
-
 // Hook
+import { useHomeFetch } from '../hooks/useHomeFetch';
+
+// Components
+import HeroImage from './HeroImage';
+import Grid from './Grid';
+import Thumb from './Thumb';
+import Spinner from './Spinner';
 
 // Image
-import NoImage from '../images/no_image.jpg'
+import NoImage from '../images/no_image.jpg';
 
 const Home = () => {
-    // bool value, setter
-    const [state, setState] = useState()
-    const [loading, setLoading] = useState(false);
-    const [error, setError] = useState(false);
-    
-    const fetchMovies = async (page, searchTerm = "") => {
-        try {
-            setError(false);
-            setLoading(true);
-
-            const movies = await API.fetchMovies(searchTerm, page);
-
-            // setState is a setter that uses an inline function (with prev as input) to reset the state 
-            setState(prev => ({
-                // ... syntax "spreads out" the movies var. Creates an new object with all of the properties of the given object
-                ...movies,
-                // returns all movies until now
-                results:
-                    page > 1 ? [...prev.results, ...movies.results] : [...movies.results]
-            }))
-
-        } catch (error) {
-            setError(true);
-        }
-        setLoading(false);
-    };
-
-    // Inline function of initial render
-    useEffect(() => {
-        // Get me page one of movies
-        fetchMovies(1)
-    }, []) // Inside brackets is "dependency array." We will only use this func if dependencies are valid
-           // If depend arr is empty, it'll only run once  
-
+    const { state, loading, error } = useHomeFetch();
     console.log(state);
-    return <div>Home Page</div>
+    return (
+        // Like CPP, js can only return one element. Here, we return a "fragment" similar to a div but doesn't seperate out this component.
+        // Fragment notation is a simple <>. Furthermore, a "{}" in HTML converts any javascript output to HTML. Similar to f-string in python
+        <>
+        {/* If state.results[0] exists, create a hero image from this first result. Otherwise, send null  */}
+            {state.results[0] ? (
+                <HeroImage
+                    // All vars in this section come from the movie database API
+                    // Template literal. Similar to XML. Below, is the full image path
+                    image={`${IMAGE_BASE_URL}${BACKDROP_SIZE}${state.results[0].backdrop_path}`}
+                    title={state.results[0].original_title}
+                    text={state.results[0].overview}
+                />
+            ) : null
+            }
+            <Grid header='Popular Movies'>
+                {/* map is basically a range-based for loop */}
+                {state.results.map(movie => (
+                    <Thumb
+                        key={movie.id}
+                        clickable
+                        image={
+                            movie.poster_path ?
+                                IMAGE_BASE_URL + POSTER_SIZE + movie.poster_path
+                                : NoImage 
+                        }
+                        movieId={movie.id}
+                    />
+                ))}
+            </Grid>
+            <Spinner />
+        </>        
+    )
 }
 
 export default Home;
